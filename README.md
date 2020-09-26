@@ -1,5 +1,5 @@
 # prov_quotas
-Gender Quotas in Argentine Provinces, 1983-2020
+Gender Quotas in Argentine Provinces, 1992-2020
 ===============================================
 
 The election of local authorities in Argentina is significantly decentralized: province-level elections are ruled by provincial constitutions and provincial laws, while national laws have limited influence over them. The adoption of gender quotas in early 1990s substantively increased the number of elected women at the Argentine Congress (Jones 1996; Lubertino 2003; Alles 2007). However, the gender quotas adopted for national elections, though may have inspired local emulations, do not affect provincial elections.
@@ -14,8 +14,8 @@ Overall, the difussion of gender quotas resulted in a larger presence of women: 
 
 This repository provides information of the quota laws adopted in Argentine provinces since 1992. It comprises:
 
-(a) dates of adoption and implementation,
-(b) requirements of the composition of party lists, and
+(a) dates of adoption and implementation,<br />
+(b) requirements of the composition of party lists, and<br />
 (c) copies of the provincial laws.
 
 Data Availability
