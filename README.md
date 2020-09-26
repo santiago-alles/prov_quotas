@@ -18,6 +18,8 @@ This repository provides information of the quota laws adopted in Argentine prov
 (b) requirements of the composition of party lists, and<br />
 (c) copies of the provincial laws.
 
+Legislation has been compiled from provincial electoral authorities, provincial electoral courts, among others.
+
 Data Availability
 ------------------
 
