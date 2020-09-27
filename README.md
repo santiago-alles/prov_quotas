@@ -1,4 +1,3 @@
-# prov_quotas
 Gender Quotas in Argentine Provinces, 1992-2020
 ===============================================
 
