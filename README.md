@@ -14,7 +14,7 @@ Overall, the difussion of gender quotas resulted in a larger presence of women: 
 
 This repository provides information of the quota laws adopted in Argentine provinces since 1992. It comprises:
 
-(a) dates of adoption and implementation,<br />
+(a) dates of adoption and implementation of the provincial quotas,<br />
 (b) requirements of the composition of party lists, and<br />
 (c) copies of the provincial laws (available at the '<a href="https://github.com/santiago-alles/prov_quotas/tree/master/legislation">legislation</a>' folder).
 
