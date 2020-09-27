@@ -16,7 +16,7 @@ This repository provides information of the quota laws adopted in Argentine prov
 
 (a) dates of adoption and implementation,<br />
 (b) requirements of the composition of party lists, and<br />
-(c) copies of the provincial laws.
+(c) copies of the provincial laws (available at the '<a href="https://github.com/santiago-alles/prov_quotas/tree/master/legislation">legislation</a>' folder).
 
 Legislation has been compiled from provincial electoral authorities, provincial electoral courts, among others.
 
